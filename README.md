@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mahmoudAliaboElhassan
+- 👋 Hi, I’m Mahmoud Ali
 - 👀 I’m interested in learning frontend development
 - 🌱 I’m currently learning programming at the faculty of computer science
 
