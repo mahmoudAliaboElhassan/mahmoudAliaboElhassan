@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning frontend development
 - 🌱 I’m currently learning programming at the faculty of computer and information science
 
-- 📫 How to reach me>> you can reach  me through Linkedin : https://bit.ly/3SwArGe
+- 📫 How to reach me>> you can reach  me through Linkedin : https://bit.ly/3HvXJbi
 - -or through Facebook : https://bit.ly/3cnp82S
 
 
