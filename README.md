@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mahmoud Ali
 - 👀 I’m interested in learning frontend development
-- 🌱 I’m currently learning programming at the faculty of computer and information science
+- 🌱 I’m Currently Learning Programming at the Faculty of Computer and Information Science
 
 - 📫 How to reach me>> you can reach  me through Linkedin : https://bit.ly/3HvXJbi
 - -or through Facebook : https://bit.ly/3cnp82S
