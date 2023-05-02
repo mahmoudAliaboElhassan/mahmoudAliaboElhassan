@@ -4,7 +4,7 @@
 
 — 🌱 I’m Currently Learning Programming at the Faculty of Computer and Information Science
 
-— 📫 How to reach me>> you can reach me through LinkedIn : bit.ly/3HvXJbi
+— 📫 How to reach me>> you can reach me through LinkedIn :https://bit.ly/3HvXJbi
 
 —  through Facebook : https://bit.ly/3cnp82S
 
