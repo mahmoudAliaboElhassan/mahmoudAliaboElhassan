@@ -6,7 +6,7 @@
 
 — 📫 How to reach me>> you can reach me through LinkedIn : https://bit.ly/3HvXJbi
 
-—  through Facebook : https://bit.ly/3cnp82S
+—  through Facebook: https://www.facebook.com/MahmoudAliSoftwareDeveloper/
 
 —  Inbox me through : ml6893254@gamil.com
 
