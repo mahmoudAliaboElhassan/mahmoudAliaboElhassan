@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Ali</h1>
 <h3 align="center">“Software Developer turning ideas into real-world applications.”</h3>
 
-- 👨‍💻 All of my projects are available at [https://mahmoudaliaboelhassan.github.io/Portfolio-Website/](https://mahmoudaliaboelhassan.github.io/Portfolio-Website/)
+- 👨‍💻 All of my projects are available at [Portfolio Website](https://mahmoudaliaboelhassan.github.io/Portfolio-Website/)
 
-- 📝 I regularly write articles on [https://www.facebook.com/profile.php?id=61573550532089](https://www.facebook.com/profile.php?id=61573550532089)
+📝 I regularly write articles on [Code Sphere](https://www.facebook.com/profile.php?id=61573550532089).
 
 - 💬 Ask me about **Web Development**
 
@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mahmoudfrontenddeveloper/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmoudfrontenddeveloper/" height="30" width="40" /></a>
-<a href="https://fb.com/mahmoudalisoftwaredeveloper" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahmoudalisoftwaredeveloper" height="30" width="40" /></a>
+<a href="https://fb.com/MahmoudCodeSphere" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahmoudalisoftwaredeveloper" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
