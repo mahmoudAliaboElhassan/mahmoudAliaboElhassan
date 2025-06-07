@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio Website](https://mahmoudaliaboelhassan.github.io/Portfolio-Website/)
 
-📝 I regularly write articles on [Code Sphere](https://www.facebook.com/profile.php?id=61573550532089).
+- 📝 I regularly write articles on [Code Sphere](https://www.facebook.com/profile.php?id=61573550532089).
 
 - 💬 Ask me about **Web Development**
 
