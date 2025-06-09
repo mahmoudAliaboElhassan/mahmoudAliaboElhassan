@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ml6893254@gmail.com**
 
-- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1_gydfpWBb9NmYXQAvAhNlLGvhRSR-Asa/view?usp=drive_link)
+- 📄 Know about my experiences [My CV]([https://drive.google.com/file/d/1_gydfpWBb9NmYXQAvAhNlLGvhRSR-Asa/view?usp=drive_link]).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
