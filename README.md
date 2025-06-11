@@ -1,3 +1,14 @@
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=mahmoudAliaboElhassan&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
 <h1 align="center">Hi 👋, I'm Mahmoud Ali</h1>
 <h3 align="center">“Software Developer turning ideas into real-world applications.”</h3>
 
