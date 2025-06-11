@@ -23,11 +23,12 @@
 
 ---
 
-- 👨‍💻 All of my projects are available on <a href="https://mahmoudaliaboelhassan.github.io/Portfolio-Website/" target="_blank" rel="noopener noreferrer" style="font-weight: bold; text-decoration: none;">Portfolio Website</a>
-- 📝 I regularly write articles on <a href="https://www.facebook.com/profile.php?id=61573550532089" target="_blank" rel="noopener noreferrer" style="font-weight: bold; text-decoration: none;">Code Sphere</a>
+- 👨‍💻 All of my projects are available on [**Portfolio Website**](https://mahmoudaliaboelhassan.github.io/Portfolio-Website/){:target="_blank"}
+- 📝 I regularly write articles on [**Code Sphere**](https://www.facebook.com/profile.php?id=61573550532089){:target="_blank"}
 - 💬 Ask me about **Web Development**
 - 📫 How to reach me: **ml6893254@gmail.com**
-- 📄 Know about my experiences: <a href="https://drive.google.com/file/d/1_gydfpWBb9NmYXQAvAhNlLGvhRSR-Asa/view?usp=drive_link" target="_blank" rel="noopener noreferrer" style="font-weight: bold; text-decoration: none;">View My CV</a>
+- 📄 Know about my experiences: [**View My CV**](https://drive.google.com/file/d/1_gydfpWBb9NmYXQAvAhNlLGvhRSR-Asa/view?usp=drive_link){:target="_blank"}
+
 
 
 ---
