@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExejU2eGtqeHBqMTB3Ymx5YWxsdXF1cHNqazUwcG42M3FkbmJmODRoNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HQTYdpx1yhxWpugAi2/giphy.gif" width="100"/>
 </div>
 <h1 align="center">Hi 👋, I'm Mahmoud Ali</h1>
 <h3 align="center">“Software Developer turning ideas into real-world applications.”</h3>
