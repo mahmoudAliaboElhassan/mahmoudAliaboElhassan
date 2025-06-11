@@ -1,6 +1,4 @@
-<div id="header" align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExejU2eGtqeHBqMTB3Ymx5YWxsdXF1cHNqazUwcG42M3FkbmJmODRoNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HQTYdpx1yhxWpugAi2/giphy.gif" width="100"/>
-</div>
+
 <h1 align="center">Hi 👋, I'm Mahmoud Ali</h1>
 <h3 align="center">“Software Developer turning ideas into real-world applications.”</h3>
 
@@ -13,6 +11,22 @@
 - 📫 How to reach me **ml6893254@gmail.com**
 
 - 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1_gydfpWBb9NmYXQAvAhNlLGvhRSR-Asa/view?usp=drive_link).
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+<div id="badges">
+  <a href="https://www.linkedin.com/in/mahmoudfrontenddeveloper/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.youtube.com/@sphere_of_mahmoud">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="mailto:ml6893254@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+</div>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
