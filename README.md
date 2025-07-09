@@ -49,8 +49,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudAliaboElhassan&show_icons=true&theme=radical" />
 </picture>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=mahmoudAliaboElhassan&theme=radical)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahmoudAliaboElhassan&show_icons=true&theme=radical)
 
 ---
 
